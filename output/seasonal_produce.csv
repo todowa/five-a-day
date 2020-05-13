@@ -1,0 +1,1297 @@
+produce,month,status,is_meat,is_fish,is_fruit,is_veg
+Apple,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Apricot,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Asparagus,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Aubergine,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Banana,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Beef,Jan,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Blackberry,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Broad bean,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Broccoli,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Cabbage,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Celeriac,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Celery,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Cherry,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Chestnut,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Chicken,Jan,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Clementine,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Cod,Jan,Coming in,FALSE,TRUE,FALSE,FALSE
+Courgette,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Crab,Jan,Out of season,FALSE,TRUE,FALSE,FALSE
+Crab apple,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Damson,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Duck,Jan,Out of season,TRUE,FALSE,FALSE,FALSE
+Elderberries,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Fig,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Garlic,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Goose,Jan,At its best,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Grouse,Jan,Out of season,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Jan,Out of season,TRUE,FALSE,FALSE,FALSE
+Halibut,Jan,Out of season,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Kale,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Kipper,Jan,Out of season,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Lamb,Jan,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Leek,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Lemon,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Lettuce,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Loganberry,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,Jan,Out of season,FALSE,TRUE,FALSE,FALSE
+Mangetout,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Marrow,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Mint,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Mussels,Jan,At its best,FALSE,TRUE,FALSE,FALSE
+Nectarine,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+New potatoes,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Onion,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Oyster,Jan,At its best,FALSE,TRUE,FALSE,FALSE
+Pak choi,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Peach,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Pear,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Peas,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Pepper,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Plum,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Jan,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Jan,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Jan,Coming in,FALSE,FALSE,FALSE,TRUE
+Quince,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Radicchio,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Raspberry,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Runner bean,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Salmon,Jan,Out of season,FALSE,TRUE,FALSE,FALSE
+Salsify,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Samphire,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Spinach,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring greens,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Jan,Out of season,TRUE,FALSE,FALSE,FALSE
+Spring onion,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Swede,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Tayberry,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+Tuna,Jan,Out of season,FALSE,TRUE,FALSE,FALSE
+Turkey,Jan,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Jan,At its best,FALSE,FALSE,FALSE,TRUE
+Venison,Jan,At its best,TRUE,FALSE,FALSE,FALSE
+Watercress,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Watermelon,Jan,Out of season,FALSE,FALSE,TRUE,FALSE
+White asparagus,Jan,Out of season,FALSE,FALSE,FALSE,TRUE
+Whiting,Jan,At its best,FALSE,TRUE,FALSE,FALSE
+Apple,Feb,At its best,FALSE,FALSE,TRUE,FALSE
+Apricot,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Asparagus,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Aubergine,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Banana,Feb,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Beef,Feb,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Blackberry,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Feb,At its best,FALSE,FALSE,TRUE,FALSE
+Broad bean,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Broccoli,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Cabbage,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Celeriac,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Celery,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Cherry,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Chestnut,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Chicken,Feb,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Clementine,Feb,At its best,FALSE,FALSE,TRUE,FALSE
+Cod,Feb,At its best,FALSE,TRUE,FALSE,FALSE
+Courgette,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Crab,Feb,Out of season,FALSE,TRUE,FALSE,FALSE
+Crab apple,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Damson,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Duck,Feb,Out of season,TRUE,FALSE,FALSE,FALSE
+Elderberries,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Fig,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Garlic,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Goose,Feb,Out of season,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Feb,At its best,FALSE,FALSE,TRUE,FALSE
+Grouse,Feb,Out of season,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Feb,Out of season,TRUE,FALSE,FALSE,FALSE
+Halibut,Feb,Out of season,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Kale,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Kipper,Feb,Out of season,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Lamb,Feb,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Leek,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Lemon,Feb,At its best,FALSE,FALSE,TRUE,FALSE
+Lettuce,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Loganberry,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,Feb,Out of season,FALSE,TRUE,FALSE,FALSE
+Mangetout,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Marrow,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Mint,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Mussels,Feb,At its best,FALSE,TRUE,FALSE,FALSE
+Nectarine,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+New potatoes,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Onion,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Feb,At its best,FALSE,FALSE,TRUE,FALSE
+Oyster,Feb,At its best,FALSE,TRUE,FALSE,FALSE
+Pak choi,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Peach,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Pear,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Peas,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Pepper,Feb,Coming in,FALSE,FALSE,FALSE,TRUE
+Plum,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Feb,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Feb,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Quince,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Radicchio,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Raspberry,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Runner bean,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Salmon,Feb,Out of season,FALSE,TRUE,FALSE,FALSE
+Salsify,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Samphire,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Spinach,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring greens,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Feb,At its best,TRUE,FALSE,FALSE,FALSE
+Spring onion,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Swede,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Tayberry,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+Tuna,Feb,Out of season,FALSE,TRUE,FALSE,FALSE
+Turkey,Feb,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Feb,At its best,FALSE,FALSE,FALSE,TRUE
+Venison,Feb,At its best,TRUE,FALSE,FALSE,FALSE
+Watercress,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Watermelon,Feb,Out of season,FALSE,FALSE,TRUE,FALSE
+White asparagus,Feb,Out of season,FALSE,FALSE,FALSE,TRUE
+Whiting,Feb,At its best,FALSE,TRUE,FALSE,FALSE
+Apple,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Apricot,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Asparagus,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Aubergine,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Banana,Mar,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Beef,Mar,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Blackberry,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Mar,At its best,FALSE,FALSE,TRUE,FALSE
+Broad bean,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Broccoli,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Cabbage,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Celeriac,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Celery,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Cherry,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Chestnut,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Chicken,Mar,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Clementine,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Cod,Mar,At its best,FALSE,TRUE,FALSE,FALSE
+Courgette,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Crab,Mar,Out of season,FALSE,TRUE,FALSE,FALSE
+Crab apple,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Damson,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Duck,Mar,Out of season,TRUE,FALSE,FALSE,FALSE
+Elderberries,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Fig,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Garlic,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Goose,Mar,Out of season,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Mar,At its best,FALSE,FALSE,TRUE,FALSE
+Grouse,Mar,Out of season,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Mar,Out of season,TRUE,FALSE,FALSE,FALSE
+Halibut,Mar,At its best,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Kale,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Kipper,Mar,Out of season,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Lamb,Mar,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Leek,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Lemon,Mar,At its best,FALSE,FALSE,TRUE,FALSE
+Lettuce,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Loganberry,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,Mar,Out of season,FALSE,TRUE,FALSE,FALSE
+Mangetout,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Marrow,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Mint,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Mussels,Mar,At its best,FALSE,TRUE,FALSE,FALSE
+Nectarine,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+New potatoes,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Onion,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Mar,At its best,FALSE,FALSE,TRUE,FALSE
+Oyster,Mar,At its best,FALSE,TRUE,FALSE,FALSE
+Pak choi,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Peach,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Pear,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Peas,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Pepper,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Plum,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Mar,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Mar,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Mar,Coming in,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Quince,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Radicchio,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Raspberry,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Runner bean,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Salmon,Mar,At its best,FALSE,TRUE,FALSE,FALSE
+Salsify,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Samphire,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,Mar,Coming in,FALSE,FALSE,FALSE,TRUE
+Spinach,Mar,Coming in,FALSE,FALSE,FALSE,TRUE
+Spring greens,Mar,Coming in,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Mar,At its best,TRUE,FALSE,FALSE,FALSE
+Spring onion,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Swede,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Mar,At its best,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Tayberry,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+Tuna,Mar,Out of season,FALSE,TRUE,FALSE,FALSE
+Turkey,Mar,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Mar,Out of season,FALSE,FALSE,FALSE,TRUE
+Venison,Mar,Out of season,TRUE,FALSE,FALSE,FALSE
+Watercress,Mar,Coming in,FALSE,FALSE,FALSE,TRUE
+Watermelon,Mar,Out of season,FALSE,FALSE,TRUE,FALSE
+White asparagus,Mar,Coming in,FALSE,FALSE,FALSE,TRUE
+Whiting,Mar,Out of season,FALSE,TRUE,FALSE,FALSE
+Apple,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Apricot,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Asparagus,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Aubergine,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Banana,Apr,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Beef,Apr,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Blackberry,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Broad bean,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Broccoli,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Cabbage,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Celeriac,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Celery,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Cherry,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Chestnut,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Chicken,Apr,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Clementine,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Cod,Apr,At its best,FALSE,TRUE,FALSE,FALSE
+Courgette,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Crab,Apr,At its best,FALSE,TRUE,FALSE,FALSE
+Crab apple,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Damson,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Duck,Apr,Out of season,TRUE,FALSE,FALSE,FALSE
+Elderberries,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Fig,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Garlic,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Goose,Apr,Out of season,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Apr,At its best,FALSE,FALSE,TRUE,FALSE
+Grouse,Apr,Out of season,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Apr,Out of season,TRUE,FALSE,FALSE,FALSE
+Halibut,Apr,At its best,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Kale,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Kipper,Apr,Out of season,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Lamb,Apr,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Leek,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Lemon,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Lettuce,Apr,Coming in,FALSE,FALSE,FALSE,TRUE
+Loganberry,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,Apr,Out of season,FALSE,TRUE,FALSE,FALSE
+Mangetout,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Marrow,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Mint,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Mussels,Apr,Out of season,FALSE,TRUE,FALSE,FALSE
+Nectarine,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+New potatoes,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Onion,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Oyster,Apr,At its best,FALSE,TRUE,FALSE,FALSE
+Pak choi,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Peach,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Pear,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Peas,Apr,Coming in,FALSE,FALSE,FALSE,TRUE
+Pepper,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Plum,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Apr,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Apr,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Quince,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Radicchio,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Apr,Coming in,FALSE,FALSE,FALSE,TRUE
+Raspberry,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Runner bean,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Salmon,Apr,At its best,FALSE,TRUE,FALSE,FALSE
+Salsify,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Samphire,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Spinach,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Spring greens,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Apr,At its best,TRUE,FALSE,FALSE,FALSE
+Spring onion,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Swede,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Tayberry,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+Tuna,Apr,Out of season,FALSE,TRUE,FALSE,FALSE
+Turkey,Apr,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Apr,Out of season,FALSE,FALSE,FALSE,TRUE
+Venison,Apr,Out of season,TRUE,FALSE,FALSE,FALSE
+Watercress,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Watermelon,Apr,Out of season,FALSE,FALSE,TRUE,FALSE
+White asparagus,Apr,At its best,FALSE,FALSE,FALSE,TRUE
+Whiting,Apr,Out of season,FALSE,TRUE,FALSE,FALSE
+Apple,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Apricot,May,At its best,FALSE,FALSE,TRUE,FALSE
+Asparagus,May,Coming in,FALSE,FALSE,FALSE,TRUE
+Aubergine,May,Coming in,FALSE,FALSE,FALSE,TRUE
+Banana,May,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Beef,May,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Blackberry,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,May,Coming in,FALSE,FALSE,TRUE,FALSE
+Bramley apple,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Broad bean,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Broccoli,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Cabbage,May,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,May,Coming in,FALSE,FALSE,FALSE,TRUE
+Cauliflower,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Celeriac,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Celery,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Cherry,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,May,At its best,FALSE,FALSE,FALSE,TRUE
+Chestnut,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Chicken,May,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Clementine,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Cod,May,Out of season,FALSE,TRUE,FALSE,FALSE
+Courgette,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Courgette flower,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Crab,May,At its best,FALSE,TRUE,FALSE,FALSE
+Crab apple,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Damson,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Duck,May,Out of season,TRUE,FALSE,FALSE,FALSE
+Elderberries,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Fig,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Garlic,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,May,Coming in,FALSE,FALSE,FALSE,TRUE
+Goose,May,Out of season,TRUE,FALSE,FALSE,FALSE
+Gooseberry,May,Coming in,FALSE,FALSE,TRUE,FALSE
+Grapefruit,May,At its best,FALSE,FALSE,TRUE,FALSE
+Grouse,May,Out of season,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,May,Out of season,TRUE,FALSE,FALSE,FALSE
+Halibut,May,At its best,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Kale,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Kipper,May,At its best,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Lamb,May,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,May,At its best,FALSE,FALSE,FALSE,TRUE
+Leek,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Lemon,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Lettuce,May,At its best,FALSE,FALSE,FALSE,TRUE
+Loganberry,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,May,At its best,FALSE,TRUE,FALSE,FALSE
+Mangetout,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Marrow,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Mint,May,At its best,FALSE,FALSE,FALSE,TRUE
+Mussels,May,Out of season,FALSE,TRUE,FALSE,FALSE
+Nectarine,May,At its best,FALSE,FALSE,TRUE,FALSE
+New potatoes,May,At its best,FALSE,FALSE,FALSE,TRUE
+Onion,May,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Oyster,May,Out of season,FALSE,TRUE,FALSE,FALSE
+Pak choi,May,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Peach,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Pear,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Peas,May,At its best,FALSE,FALSE,FALSE,TRUE
+Pepper,May,At its best,FALSE,FALSE,FALSE,TRUE
+Plum,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Pomegranate,May,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,May,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,May,At its best,FALSE,FALSE,FALSE,TRUE
+Pumpkin,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Quince,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Radicchio,May,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,May,At its best,FALSE,FALSE,FALSE,TRUE
+Raspberry,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Redcurrant,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Rhubarb,May,At its best,FALSE,FALSE,FALSE,TRUE
+Runner bean,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Salmon,May,At its best,FALSE,TRUE,FALSE,FALSE
+Salsify,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Samphire,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,May,At its best,FALSE,FALSE,FALSE,TRUE
+Spinach,May,At its best,FALSE,FALSE,FALSE,TRUE
+Spring greens,May,At its best,FALSE,FALSE,FALSE,TRUE
+Spring lamb,May,At its best,TRUE,FALSE,FALSE,FALSE
+Spring onion,May,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,May,Coming in,FALSE,FALSE,TRUE,FALSE
+Swede,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweet potato,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Tayberry,May,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,May,Coming in,FALSE,FALSE,TRUE,FALSE
+Tuna,May,At its best,FALSE,TRUE,FALSE,FALSE
+Turkey,May,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,May,Out of season,FALSE,FALSE,FALSE,TRUE
+Venison,May,Out of season,TRUE,FALSE,FALSE,FALSE
+Watercress,May,At its best,FALSE,FALSE,FALSE,TRUE
+Watermelon,May,Out of season,FALSE,FALSE,TRUE,FALSE
+White asparagus,May,At its best,FALSE,FALSE,FALSE,TRUE
+Whiting,May,Out of season,FALSE,TRUE,FALSE,FALSE
+Apple,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Apricot,Jun,At its best,FALSE,FALSE,TRUE,FALSE
+Asparagus,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Aubergine,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Banana,Jun,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Jun,Coming in,FALSE,FALSE,FALSE,TRUE
+Beef,Jun,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Blackberry,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Jun,At its best,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Broad bean,Jun,Coming in,FALSE,FALSE,FALSE,TRUE
+Broccoli,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Cabbage,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Jun,Coming in,FALSE,FALSE,FALSE,TRUE
+Celeriac,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Celery,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Cherry,Jun,Coming in,FALSE,FALSE,TRUE,FALSE
+Chervil,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Chestnut,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Chicken,Jun,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Clementine,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Cod,Jun,Out of season,FALSE,TRUE,FALSE,FALSE
+Courgette,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Crab,Jun,At its best,FALSE,TRUE,FALSE,FALSE
+Crab apple,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Damson,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Duck,Jun,Out of season,TRUE,FALSE,FALSE,FALSE
+Elderberries,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Fig,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Garlic,Jun,Coming in,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Goose,Jun,Out of season,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Jun,At its best,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Grouse,Jun,Out of season,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Jun,Out of season,TRUE,FALSE,FALSE,FALSE
+Halibut,Jun,At its best,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Kale,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Kipper,Jun,At its best,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Lamb,Jun,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Leek,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Lemon,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Lettuce,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Loganberry,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,Jun,At its best,FALSE,TRUE,FALSE,FALSE
+Mangetout,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Marrow,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Mint,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Mussels,Jun,Out of season,FALSE,TRUE,FALSE,FALSE
+Nectarine,Jun,At its best,FALSE,FALSE,TRUE,FALSE
+New potatoes,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Onion,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Oyster,Jun,Out of season,FALSE,TRUE,FALSE,FALSE
+Pak choi,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Peach,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Pear,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Peas,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Pepper,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Plum,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Jun,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Jun,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Quince,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Radicchio,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Raspberry,Jun,Coming in,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Jun,Coming in,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Runner bean,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Salmon,Jun,At its best,FALSE,TRUE,FALSE,FALSE
+Salsify,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Samphire,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Spinach,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Spring greens,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Jun,At its best,TRUE,FALSE,FALSE,FALSE
+Spring onion,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Jun,At its best,FALSE,FALSE,TRUE,FALSE
+Swede,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Tayberry,Jun,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,Jun,At its best,FALSE,FALSE,TRUE,FALSE
+Tuna,Jun,At its best,FALSE,TRUE,FALSE,FALSE
+Turkey,Jun,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Venison,Jun,Out of season,TRUE,FALSE,FALSE,FALSE
+Watercress,Jun,At its best,FALSE,FALSE,FALSE,TRUE
+Watermelon,Jun,Coming in,FALSE,FALSE,TRUE,FALSE
+White asparagus,Jun,Out of season,FALSE,FALSE,FALSE,TRUE
+Whiting,Jun,At its best,FALSE,TRUE,FALSE,FALSE
+Apple,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Apricot,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Asparagus,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Aubergine,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Banana,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Beef,Jul,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Blackberry,Jul,Coming in,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Broad bean,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Broccoli,Jul,Coming in,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Cabbage,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Celeriac,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Celery,Jul,Coming in,FALSE,FALSE,FALSE,TRUE
+Cherry,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Chervil,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Chestnut,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Chicken,Jul,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Clementine,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Cod,Jul,Out of season,FALSE,TRUE,FALSE,FALSE
+Courgette,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Crab,Jul,At its best,FALSE,TRUE,FALSE,FALSE
+Crab apple,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Damson,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Duck,Jul,Out of season,TRUE,FALSE,FALSE,FALSE
+Elderberries,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Fig,Jul,Coming in,FALSE,FALSE,TRUE,FALSE
+Garlic,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Goose,Jul,Out of season,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Grouse,Jul,Out of season,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Jul,Out of season,TRUE,FALSE,FALSE,FALSE
+Halibut,Jul,At its best,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Kale,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Kipper,Jul,At its best,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Jul,Coming in,FALSE,FALSE,FALSE,TRUE
+Lamb,Jul,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Leek,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Lemon,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Lettuce,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Loganberry,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,Jul,At its best,FALSE,TRUE,FALSE,FALSE
+Mangetout,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Marrow,Jul,Coming in,FALSE,FALSE,FALSE,TRUE
+Mint,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Mussels,Jul,Out of season,FALSE,TRUE,FALSE,FALSE
+Nectarine,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+New potatoes,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Onion,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Oyster,Jul,Out of season,FALSE,TRUE,FALSE,FALSE
+Pak choi,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Peach,Jul,Coming in,FALSE,FALSE,TRUE,FALSE
+Pear,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Peas,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Pepper,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Plum,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Jul,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Quince,Jul,Out of season,FALSE,FALSE,TRUE,FALSE
+Radicchio,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Raspberry,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Runner bean,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Salmon,Jul,At its best,FALSE,TRUE,FALSE,FALSE
+Salsify,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Samphire,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Sorrel,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Spinach,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Spring greens,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Jul,Out of season,TRUE,FALSE,FALSE,FALSE
+Spring onion,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Swede,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Tayberry,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Tomato,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+Tuna,Jul,At its best,FALSE,TRUE,FALSE,FALSE
+Turkey,Jul,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Venison,Jul,Out of season,TRUE,FALSE,FALSE,FALSE
+Watercress,Jul,At its best,FALSE,FALSE,FALSE,TRUE
+Watermelon,Jul,At its best,FALSE,FALSE,TRUE,FALSE
+White asparagus,Jul,Out of season,FALSE,FALSE,FALSE,TRUE
+Whiting,Jul,At its best,FALSE,TRUE,FALSE,FALSE
+Apple,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Apricot,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Asparagus,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Aubergine,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Banana,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Beef,Aug,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Blackberry,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Broad bean,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Broccoli,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Cabbage,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Celeriac,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Celery,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Cherry,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Chestnut,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Chicken,Aug,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Clementine,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Cod,Aug,Out of season,FALSE,TRUE,FALSE,FALSE
+Courgette,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Crab,Aug,At its best,FALSE,TRUE,FALSE,FALSE
+Crab apple,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Cranberry,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Damson,Aug,Coming in,FALSE,FALSE,TRUE,FALSE
+Date,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Duck,Aug,Out of season,TRUE,FALSE,FALSE,FALSE
+Elderberries,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Fig,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Garlic,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Goose,Aug,Coming in,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Grouse,Aug,At its best,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Aug,Coming in,TRUE,FALSE,FALSE,FALSE
+Halibut,Aug,At its best,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Kale,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Kipper,Aug,At its best,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Lamb,Aug,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Leek,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Lemon,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Lettuce,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Loganberry,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Mackerel,Aug,At its best,FALSE,TRUE,FALSE,FALSE
+Mangetout,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Marrow,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Mint,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Mussels,Aug,Out of season,FALSE,TRUE,FALSE,FALSE
+Nectarine,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+New potatoes,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Onion,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Oyster,Aug,Coming in,FALSE,TRUE,FALSE,FALSE
+Pak choi,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Peach,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Pear,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Peas,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Pepper,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Plum,Aug,Coming in,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Aug,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Quince,Aug,Out of season,FALSE,FALSE,TRUE,FALSE
+Radicchio,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Raspberry,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Runner bean,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Salmon,Aug,At its best,FALSE,TRUE,FALSE,FALSE
+Salsify,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Samphire,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Sorrel,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Spinach,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Spring greens,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Aug,Out of season,TRUE,FALSE,FALSE,FALSE
+Spring onion,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Swede,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Aug,Coming in,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Tayberry,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Tomato,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+Tuna,Aug,At its best,FALSE,TRUE,FALSE,FALSE
+Turkey,Aug,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Venison,Aug,Out of season,TRUE,FALSE,FALSE,FALSE
+Watercress,Aug,At its best,FALSE,FALSE,FALSE,TRUE
+Watermelon,Aug,At its best,FALSE,FALSE,TRUE,FALSE
+White asparagus,Aug,Out of season,FALSE,FALSE,FALSE,TRUE
+Whiting,Aug,At its best,FALSE,TRUE,FALSE,FALSE
+Apple,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Apricot,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Asparagus,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Aubergine,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Banana,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Beef,Sep,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Blackberry,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Broad bean,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Broccoli,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Cabbage,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Celeriac,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Celery,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Cherry,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Chestnut,Sep,Coming in,FALSE,FALSE,FALSE,TRUE
+Chicken,Sep,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Clementine,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Cod,Sep,Out of season,FALSE,TRUE,FALSE,FALSE
+Courgette,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Crab,Sep,At its best,FALSE,TRUE,FALSE,FALSE
+Crab apple,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Damson,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Date,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Duck,Sep,Out of season,TRUE,FALSE,FALSE,FALSE
+Elderberries,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Fig,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Garlic,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Goose,Sep,At its best,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Grouse,Sep,At its best,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Sep,At its best,TRUE,FALSE,FALSE,FALSE
+Halibut,Sep,At its best,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Kale,Sep,Coming in,FALSE,FALSE,FALSE,TRUE
+Kipper,Sep,At its best,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Lamb,Sep,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Leek,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Lemon,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Lettuce,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Loganberry,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Mackerel,Sep,At its best,FALSE,TRUE,FALSE,FALSE
+Mangetout,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Marrow,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Mint,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Mussels,Sep,Out of season,FALSE,TRUE,FALSE,FALSE
+Nectarine,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+New potatoes,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Onion,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Oyster,Sep,At its best,FALSE,TRUE,FALSE,FALSE
+Pak choi,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Peach,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Pear,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Peas,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Pepper,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Plum,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Sep,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Sep,Coming in,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Quince,Sep,Coming in,FALSE,FALSE,TRUE,FALSE
+Radicchio,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Raspberry,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Runner bean,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Salmon,Sep,At its best,FALSE,TRUE,FALSE,FALSE
+Salsify,Sep,Coming in,FALSE,FALSE,FALSE,TRUE
+Samphire,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Spinach,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Spring greens,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Sep,Out of season,TRUE,FALSE,FALSE,FALSE
+Spring onion,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Swede,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Tayberry,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,Sep,At its best,FALSE,FALSE,TRUE,FALSE
+Tuna,Sep,At its best,FALSE,TRUE,FALSE,FALSE
+Turkey,Sep,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Venison,Sep,Out of season,TRUE,FALSE,FALSE,FALSE
+Watercress,Sep,At its best,FALSE,FALSE,FALSE,TRUE
+Watermelon,Sep,Out of season,FALSE,FALSE,TRUE,FALSE
+White asparagus,Sep,Out of season,FALSE,FALSE,FALSE,TRUE
+Whiting,Sep,At its best,FALSE,TRUE,FALSE,FALSE
+Apple,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Apricot,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Asparagus,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Aubergine,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Banana,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Beef,Oct,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Blackberry,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Broad bean,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Broccoli,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Cabbage,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Celeriac,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Celery,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Cherry,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Chestnut,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Chicken,Oct,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Clementine,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Cod,Oct,Out of season,FALSE,TRUE,FALSE,FALSE
+Courgette,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Crab,Oct,At its best,FALSE,TRUE,FALSE,FALSE
+Crab apple,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Damson,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,Oct,Coming in,FALSE,FALSE,TRUE,FALSE
+Duck,Oct,At its best,TRUE,FALSE,FALSE,FALSE
+Elderberries,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Fig,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Garlic,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Goose,Oct,At its best,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Grouse,Oct,At its best,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Oct,At its best,TRUE,FALSE,FALSE,FALSE
+Halibut,Oct,Out of season,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Oct,Coming in,FALSE,FALSE,FALSE,TRUE
+Kale,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Kipper,Oct,Out of season,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Lamb,Oct,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Leek,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Lemon,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Lettuce,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Loganberry,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,Oct,At its best,FALSE,TRUE,FALSE,FALSE
+Mangetout,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Marrow,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Mint,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Mussels,Oct,At its best,FALSE,TRUE,FALSE,FALSE
+Nectarine,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+New potatoes,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Onion,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Oyster,Oct,At its best,FALSE,TRUE,FALSE,FALSE
+Pak choi,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Peach,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Pear,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Peas,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Pepper,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Plum,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Oct,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Quince,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Radicchio,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Raspberry,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Runner bean,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Salmon,Oct,Out of season,FALSE,TRUE,FALSE,FALSE
+Salsify,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Samphire,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Spinach,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring greens,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Oct,Out of season,TRUE,FALSE,FALSE,FALSE
+Spring onion,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Swede,Oct,Coming in,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Tayberry,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,Oct,At its best,FALSE,FALSE,TRUE,FALSE
+Tuna,Oct,Out of season,FALSE,TRUE,FALSE,FALSE
+Turkey,Oct,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Oct,At its best,FALSE,FALSE,FALSE,TRUE
+Venison,Oct,Coming in,TRUE,FALSE,FALSE,FALSE
+Watercress,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Watermelon,Oct,Out of season,FALSE,FALSE,TRUE,FALSE
+White asparagus,Oct,Out of season,FALSE,FALSE,FALSE,TRUE
+Whiting,Oct,At its best,FALSE,TRUE,FALSE,FALSE
+Apple,Nov,At its best,FALSE,FALSE,TRUE,FALSE
+Apricot,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Asparagus,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Aubergine,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Banana,Nov,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Beef,Nov,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Blackberry,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Nov,Coming in,FALSE,FALSE,TRUE,FALSE
+Broad bean,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Broccoli,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Cabbage,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Celeriac,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Celery,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Cherry,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Chestnut,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Chicken,Nov,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Clementine,Nov,At its best,FALSE,FALSE,TRUE,FALSE
+Cod,Nov,Out of season,FALSE,TRUE,FALSE,FALSE
+Courgette,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Crab,Nov,At its best,FALSE,TRUE,FALSE,FALSE
+Crab apple,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Nov,At its best,FALSE,FALSE,TRUE,FALSE
+Damson,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,Nov,At its best,FALSE,FALSE,TRUE,FALSE
+Duck,Nov,At its best,TRUE,FALSE,FALSE,FALSE
+Elderberries,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Fig,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Garlic,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Goose,Nov,At its best,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Grouse,Nov,At its best,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Nov,At its best,TRUE,FALSE,FALSE,FALSE
+Halibut,Nov,Out of season,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Kale,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Kipper,Nov,Out of season,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Lamb,Nov,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Leek,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Lemon,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Lettuce,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Loganberry,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,Nov,Out of season,FALSE,TRUE,FALSE,FALSE
+Mangetout,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Marrow,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Mint,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Mussels,Nov,At its best,FALSE,TRUE,FALSE,FALSE
+Nectarine,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+New potatoes,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Onion,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Oyster,Nov,At its best,FALSE,TRUE,FALSE,FALSE
+Pak choi,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Peach,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Pear,Nov,At its best,FALSE,FALSE,TRUE,FALSE
+Peas,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Pepper,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Plum,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Nov,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Nov,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Quince,Nov,At its best,FALSE,FALSE,TRUE,FALSE
+Radicchio,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Raspberry,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Runner bean,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Salmon,Nov,Out of season,FALSE,TRUE,FALSE,FALSE
+Salsify,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Samphire,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Spinach,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring greens,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Nov,Out of season,TRUE,FALSE,FALSE,FALSE
+Spring onion,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Swede,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Tayberry,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+Tuna,Nov,Out of season,FALSE,TRUE,FALSE,FALSE
+Turkey,Nov,Out of season,TRUE,FALSE,FALSE,FALSE
+Turnip,Nov,At its best,FALSE,FALSE,FALSE,TRUE
+Venison,Nov,At its best,TRUE,FALSE,FALSE,FALSE
+Watercress,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Watermelon,Nov,Out of season,FALSE,FALSE,TRUE,FALSE
+White asparagus,Nov,Out of season,FALSE,FALSE,FALSE,TRUE
+Whiting,Nov,At its best,FALSE,TRUE,FALSE,FALSE
+Apple,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Apricot,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Asparagus,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Aubergine,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Banana,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Basil,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Beef,Dec,At its best,TRUE,FALSE,FALSE,FALSE
+Beetroot,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Blackberry,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Blackcurrants,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Bramley apple,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Broad bean,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Broccoli,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Brussels sprouts,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Cabbage,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Carrot,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Cauliflower,Dec,Coming in,FALSE,FALSE,FALSE,TRUE
+Cavolo nero,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Celeriac,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Celery,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Cherry,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Chervil,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Chestnut,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Chicken,Dec,At its best,TRUE,FALSE,FALSE,FALSE
+Chicory,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Clementine,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Cod,Dec,Out of season,FALSE,TRUE,FALSE,FALSE
+Courgette,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Courgette flower,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Crab,Dec,Out of season,FALSE,TRUE,FALSE,FALSE
+Crab apple,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Cranberry,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Damson,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Date,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Duck,Dec,At its best,TRUE,FALSE,FALSE,FALSE
+Elderberries,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Fennel bulb,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Fig,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Garlic,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Globe artichoke,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Goose,Dec,At its best,TRUE,FALSE,FALSE,FALSE
+Gooseberry,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Grapefruit,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Grouse,Dec,At its best,TRUE,FALSE,FALSE,FALSE
+Guinea fowl,Dec,Out of season,TRUE,FALSE,FALSE,FALSE
+Halibut,Dec,Out of season,FALSE,TRUE,FALSE,FALSE
+Jerusalem artichoke,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Kale,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Kipper,Dec,Out of season,FALSE,TRUE,FALSE,FALSE
+Kohlrabi,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Lamb,Dec,At its best,TRUE,FALSE,FALSE,FALSE
+Lamb's lettuce,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Leek,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Lemon,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Lettuce,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Loganberry,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Mackerel,Dec,Out of season,FALSE,TRUE,FALSE,FALSE
+Mangetout,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Marrow,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Mint,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Mussels,Dec,At its best,FALSE,TRUE,FALSE,FALSE
+Nectarine,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+New potatoes,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Onion,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Orange,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Oyster,Dec,At its best,FALSE,TRUE,FALSE,FALSE
+Pak choi,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Parsnip,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Peach,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Pear,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Peas,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Pepper,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Plum,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Pomegranate,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Pork,Dec,At its best,TRUE,FALSE,FALSE,FALSE
+Potato,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Pumpkin,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Purple sprouting broccoli,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Quince,Dec,At its best,FALSE,FALSE,TRUE,FALSE
+Radicchio,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Radish,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Raspberry,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Redcurrant,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Rhubarb,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Runner bean,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Salmon,Dec,Out of season,FALSE,TRUE,FALSE,FALSE
+Salsify,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Samphire,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Sorrel,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Spinach,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring greens,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Spring lamb,Dec,Out of season,TRUE,FALSE,FALSE,FALSE
+Spring onion,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Strawberry,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Swede,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Sweet potato,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Sweetcorn,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Swiss chard,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Tayberry,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Tomato,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+Tuna,Dec,Out of season,FALSE,TRUE,FALSE,FALSE
+Turkey,Dec,At its best,TRUE,FALSE,FALSE,FALSE
+Turnip,Dec,At its best,FALSE,FALSE,FALSE,TRUE
+Venison,Dec,At its best,TRUE,FALSE,FALSE,FALSE
+Watercress,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Watermelon,Dec,Out of season,FALSE,FALSE,TRUE,FALSE
+White asparagus,Dec,Out of season,FALSE,FALSE,FALSE,TRUE
+Whiting,Dec,At its best,FALSE,TRUE,FALSE,FALSE
