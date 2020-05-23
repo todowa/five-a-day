@@ -4,15 +4,24 @@
 if(!require(tidyverse)) install.packages("tidyverse", repos = "http://cran.us.r-project.org")
 if(!require(rvest)) install.packages("rvest", repos = "http://cran.us.r-project.org")
 if(!require(jsonlite)) install.packages("jsonlite", repos = "http://cran.us.r-project.org")
+if(!require(emojifont)) install.packages("emojifont", repos = "http://cran.us.r-project.org")
 
 
 #---- Global Variables ----
 OUTPUT_PATH <- "./output/"
-SEASONAL_INPUT = "https://www.bbcgoodfood.com/seasonal-calendar/all"
+SEASONAL_INPUT <- "https://www.bbcgoodfood.com/seasonal-calendar/all"
 SEASONAL_OUTPUT <- "seasonal_produce.csv"
+EMOJI_PATH <- "https://emojipedia.org/search/?q="
+# Set search terms
+EMOJI_QUERYTERMS <- c("food", "fruit", "vegetables", "herbs", "meat", "fish",
+                     "seafood", "salt", "pepper", "alien", "deer", "bird",
+                     "onion", "berry", "cabbage", "crab", "nut", "corn", "oyster",
+                     "pumpkin")
+EMOJI_OUTPUT <- "emoji_list.csv"
+DICT_OUTPUT <- "food_emoji_dictionary.csv"
 
 
-#---- Download Seasonal Produce Data and Convert to Tidy Format ----
+#---- Scrape Seasonal Produce Data and Convert to Tidy Format ----
 table <- read_html(SEASONAL_INPUT) %>% html_nodes("table")
 table <- table %>% html_table %>% .[[1]]
 table$produce <- table[, 1]
@@ -25,6 +34,19 @@ table <- table %>%
 table <- table %>% mutate(slug = str_replace(str_replace_all(tolower(produce), " ", "-"), "'", "")) %>%
   mutate(slug = ifelse(slug == "spring-lamb", "autumn-lamb", slug)) %>%
   mutate(slug = ifelse(slug == "white-asparagus", "asparagus-all-white", slug)) # exceptions to rule
+
+
+#---- Scrape Food Emojis ----
+
+# Obtain food emoji unicode
+foods <- lapply(EMOJI_QUERYTERMS, function(food) {
+  read_html(paste0(EMOJI_PATH, food)) %>% html_nodes(".search-results h2") %>% html_text()
+}) %>%
+  unlist() %>%
+  tibble::enframe(name = NULL) %>%
+  separate(value, c("unicode", "name"), " ", extra = "merge") %>% 
+  group_by(name, unicode) %>% count() %>% # Remove duplicates
+  select(name, unicode)
 
 
 #---- Prepare Seasonal Produce Variables for Analysis ----
@@ -82,5 +104,47 @@ table <- table %>% mutate(is_five_a_day = ifelse(!is_meat & !is_fish & !is_other
 # beans <- c() # No relevant beans in BBC Good Food data
 
 
+#---- Prepare Food Emojis for Analysis ----
+
+dictionary <- table %>% group_by(produce) %>% count() %>% select(produce) %>% mutate(name = produce) %>%
+  mutate(name = ifelse(produce %in% c("Apple", "Bramley apple"), "Green Apple", name)) %>%
+  mutate(name = ifelse(produce %in% c("Crab apple"), "Red Apple", name)) %>%
+  mutate(name = ifelse(produce %in% c("Clementine", "Nectarine", "Orange", "Apricot"), "Tangerine", name)) %>%
+  mutate(name = ifelse(produce %in% c("Cherry"), "Cherries", name)) %>%
+  mutate(name = ifelse(produce %in% c("Beef"), "Cow", name)) %>%
+  mutate(name = ifelse(produce %in% c("Goose"), "Duck", name)) %>%
+  mutate(name = ifelse(produce %in% c("Blackcurrants", "Blackberry", "Cranberry", "Elderberries", "Tayberry",
+                                      "Gooseberry", "Loganberry", "Redcurrant", "Raspberry"), "Blueberries", name)) %>%
+  mutate(name = ifelse(produce %in% c("Venison"), "Deer", name)) %>%
+  mutate(name = ifelse(produce %in% c("New potatoes", "Sweet potato", "Swede"), "Potato", name)) %>%
+  mutate(name = ifelse(produce %in% c("Sweet potato", "Swede"), "Roasted Sweet Potato", name)) %>%
+  mutate(name = ifelse(produce %in% c("Spring lamb", "Lamb"), "Ewe", name)) %>%
+  mutate(name = ifelse(produce %in% c("Basil", "Mint", "Chervil", "Watercress"), "Herb", name)) %>%
+  mutate(name = ifelse(produce %in% c("Pepper"), "Bell Pepper", name)) %>%
+  mutate(name = ifelse(produce %in% c("Spring onion", "Garlic"), "Seedling", name)) %>%
+  mutate(name = ifelse(produce %in% c("Grouse", "Guinea fowl"), "Rooster", name)) %>%
+  mutate(name = ifelse(produce %in% c("Courgette", "Courgette flower"), "Cucumber", name)) %>%
+  mutate(name = ifelse(produce %in% c("Salmon"), "Sushi", name)) %>%
+  mutate(name = ifelse(produce %in% c("Pork"), "Pig", name)) %>%
+  mutate(name = ifelse(produce %in% c("Mussels"), "Spiral Shell", name)) %>%
+  mutate(name = ifelse(produce %in% c("Pumpkin"), "Jack-O-Lantern", name)) %>%
+  mutate(name = ifelse(produce %in% c("Cauliflower", "Purple sprouting broccoli"), "Broccoli", name)) %>%
+  mutate(name = ifelse(produce %in% c("Sweetcorn"), "Ear of Corn", name)) %>%
+  mutate(name = ifelse(produce %in% c("Whiting", "Mackerel", "Tuna", "Cod", "Halibut", "Kipper"), "Fishing Pole", name)) %>%
+  mutate(name = ifelse(produce %in% c("Swiss chard", "Asparagus", "White asparagus", "Kale", "Jerusalem artichoke",
+                                      "Cavolo nero", "Spinach", "Globe artichoke", "Sorrel", "Chicory",
+                                      "Celery", "Lamb's lettuce", "Cabbage", "Spring greens", "Leek",
+                                      "Samphire", "Broad bean", "Runner bean", "Lettuce", "Mangetout",
+                                      "Pak choi"), "Leafy Green", name)) %>%
+  mutate(name = ifelse(produce %in% c("Aubergine"), "Eggplant", name)) %>%
+  mutate(name = ifelse(produce %in% c("Salsify", "Turnip", "Parsnip", "Celeriac", "Radish", "Radicchio",
+                                      "Fennel bulb", "Marrow", "Kohlrabi", "Brussels sprouts", "Beetroot"), "Alien", name)) %>%
+  mutate(name = ifelse(produce %in% c("Damson", "Date", "Fig", "Grapefruit", "Quince", "Rhubarb", "Plum", "Peas",
+                                      "Pomegranate"), "Alien Monster", name)) %>%
+  mutate(name = ifelse(name %in% c("Blueberries", "Bell Pepper"), "T-Rex", name)) # Replace those emojis not yet in browser.
+
+
 #---- Save Data for Visualisation and Further Analysis ---- 
 write_csv(table, file.path(OUTPUT_PATH, SEASONAL_OUTPUT))
+write_csv(foods, file.path(OUTPUT_PATH, EMOJI_OUTPUT))
+write_csv(dictionary, file.path(OUTPUT_PATH, DICT_OUTPUT))
